@@ -36,19 +36,6 @@ CD3GGHOSDJXNR5VL367RX5D27VAWEST6DXXV47OYH7RSBSKYGFRU44U3
 
 ---
 
-## 🖼️ Screenshots
-
-(Add your screenshot here)
-
-Example:
-
-* Create poll success
-* Vote success
-* Get results
-
-```
-screenshot.png
-```
 
 ---
 
