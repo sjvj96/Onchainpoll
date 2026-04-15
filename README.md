@@ -31,7 +31,7 @@ Each voter can only vote once, ensuring fairness and preventing duplicate voting
 ## 📄 Smart Contract ID (Testnet)
 
 ```
-PASTE_YOUR_CONTRACT_ID_HERE
+CD3GGHOSDJXNR5VL367RX5D27VAWEST6DXXV47OYH7RSBSKYGFRU44U3
 ```
 
 ---
@@ -83,6 +83,9 @@ screenshot.png
 * Educational blockchain demo
 
 ---
+Explorer:
+https://lab.stellar.org/r/testnet/contract/CD3GGHOSDJXNR5VL367RX5D27VAWEST6DXXV47OYH7RSBSKYGFRU44U3
+
 
 ## 👨‍💻 Author
 
